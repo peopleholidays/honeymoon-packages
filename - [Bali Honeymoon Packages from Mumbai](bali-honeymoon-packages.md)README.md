@@ -1,4 +1,6 @@
 # Honeymoon Packages | People Holidays – Honeymoon Tours from Mumbai
+- [Bali Honeymoon Packages from Mumbai](bali-honeymoon-packages.md)
+
 
 People Holidays is a Mumbai-based travel agency offering customised
 honeymoon packages for couples looking for private, relaxed,
