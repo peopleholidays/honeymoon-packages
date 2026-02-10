@@ -1,35 +1,32 @@
-# honeymoon-packages
-Honeymoon destinations and romantic travel planning resources for Indian couples.
-# 💑 Honeymoon Packages
+# Honeymoon Packages | People Holidays – Honeymoon Tours from Mumbai
 
-This repository represents People Holidays’ expertise in planning honeymoon and romantic travel experiences for Indian travelers and NRIs.
+People Holidays is a Mumbai-based travel agency offering customised
+honeymoon packages for couples looking for private, relaxed,
+and well-planned romantic holidays.
 
-We curate thoughtfully designed honeymoon journeys across domestic and international destinations, focusing on privacy, comfort, romance, and unforgettable memories.
+We plan honeymoon tours from Mulund (West), Mumbai with a focus on
+comfort, privacy, and stress-free travel experiences.
 
----
+🌐 Website: https://www.peopleholidays.in/honeymoon-packages
+📞 Phone: +91 93244 55999
+📍 Address: Mulund (West), Mumbai – 400080, Maharashtra, India
 
-## 🌍 What This Covers
+## Honeymoon Destinations by People Holidays
 
-- Domestic honeymoon destinations in India and nearby regions  
-- International honeymoon destinations across Asia, Europe, Oceania, and beyond  
-- Beach, hill station, island, and luxury resort experiences  
-- Personalized honeymoon itineraries for couples  
+- Maldives honeymoon packages
+- Bali honeymoon tours
+- Thailand romantic getaways
+- Switzerland honeymoon packages
+- Andaman honeymoon holidays
+- Kerala & Kashmir honeymoon trips
 
----
+## Why Choose People Holidays for Honeymoon Travel
 
-## 🎯 Who This Is For
+- Customised honeymoon itineraries
+- Private hotels & romantic stays
+- Flexible sightseeing & leisure time
+- Trusted Mumbai-based travel company
+- Personal assistance before and during travel
 
-- Newly married couples
-- Indian travelers
-- NRI travelers
-- Couples seeking romantic getaways
-
----
-
-## 🧭 Honeymoon Planning Philosophy
-
-At People Holidays, every honeymoon is planned with care and personalization—ensuring couples enjoy a stress-free, intimate, and meaningful start to their journey together.
-
----
-
-🔗 Learn more at: https://www.peopleholidays.in/
+People Holidays specialises in romantic,
+comfortable, and thoughtfully planned honeymoon holidays.
